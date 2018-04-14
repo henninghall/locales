@@ -1,2 +1,3 @@
 # locales
-List of all locale short codes
+
+[List of all locale short codes](locales.txt)
